@@ -1,0 +1,290 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer {
+  border: 2px solid black;
+  font-family: "Poppins";
+  background-image: linear-gradient(340deg, #567d88 10%, #293c5a 60%);
+  padding: 30px;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+
+.contacts {
+  background-image: linear-gradient(340deg, #0c4eb9 10%, #0e6e88 60%);
+  background-position: 50% 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  padding-bottom: 40px;
+}
+
+.contacts i {
+  font-size: 50px;
+}
+
+.contacts p {
+  color: white;
+  font-size: 15px;
+  padding-left: 20px;
+  font-family: "Montserrat";
+}
+
+.contacts h1 {
+  margin-top: 20px;
+  text-align: center;
+  font-family: "Indie Flower";
+}
+
+.contacts__wrap {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.contacts__socials {
+  width: 70%;
+}
+
+.contacts__socials .social {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 10px;
+}
+
+@media (min-width: 600px) {
+  .contacts i {
+    font-size: 40px;
+  }
+  .contacts__wrap {
+    width: 60%;
+  }
+  .contacts__socials {
+    width: 80%;
+  }
+}
+
+@media (min-width: 900px) {
+  .contacts__wrap {
+    width: 90%;
+  }
+  .contacts__socials {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    width: 100%;
+  }
+  .contacts__socials .social {
+    width: 31%;
+  }
+  .contacts__socials .social .i {
+    font-size: 20px;
+  }
+  .contacts__socials .social p {
+    font-size: 16px;
+  }
+}
+
+.prints {
+  background-image: linear-gradient(340deg, #c0c0c0 20%, #ffffff 80%);
+  min-height: 100vh;
+}
+
+.prints button {
+  position: absolute;
+  top: 50%;
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+  font-size: 20px;
+  border: none;
+  background: transparent;
+  border-radius: 20%;
+  -webkit-transition: background-color 0.4s, color 0.4s;
+  transition: background-color 0.4s, color 0.4s;
+  cursor: pointer;
+}
+
+.prints button:hover {
+  background-color: #202020;
+  color: #fff;
+}
+
+.prints .btn-left {
+  left: 0;
+}
+
+.prints .btn-right {
+  right: 0;
+}
+
+.prints .single-print {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  max-width: 100%;
+  min-height: 100vh;
+  border-bottom: 2px solid black;
+}
+
+.prints .single-print h2 {
+  font-family: "PT Sans Narrow", sans-serif;
+  font-size: 30px;
+}
+
+.prints .single-print .one {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.prints .single-print img {
+  max-width: 55%;
+  max-height: 55vh;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+
+.single-print {
+  position: relative;
+}
+
+.popup {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  margin: 10px;
+  width: 600px;
+  min-height: 320px;
+  height: 40vh;
+  padding: 30px 60px;
+  border-radius: 15px;
+  background-color: #202020;
+  color: #fff;
+  text-align: center;
+}
+
+.popup h1,
+.popup h2,
+.popup h3,
+.popup p {
+  padding: 5px;
+}
+
+header {
+  background-image: linear-gradient(340deg, #0c4eb9 10%, #09a7d3 60%);
+}
+
+header button {
+  position: absolute;
+  top: 2%;
+  margin: 20px;
+  padding: 15px 20px;
+  border-radius: 10px;
+  font-size: 18px;
+  border: none;
+  background-color: rgba(255, 0, 0, 0.664);
+  color: white;
+  cursor: pointer;
+}
+
+header button:hover {
+  background-color: rgba(185, 6, 0, 0.842);
+  color: white;
+}
+
+.btn-contact {
+  left: 70%;
+}
+
+h1,
+h2 {
+  text-align: center;
+  padding: 16px;
+}
+
+.my_printer {
+  height: 90vh;
+  background-image: url("../img/abstract-1438434_1280.png");
+  color: #b8b8b8;
+  margin: 0 auto;
+}
+
+.my_printer .wrap {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  margin: 20px;
+}
+
+.my_printer .wrap .parameters {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin: 20px;
+  color: white;
+}
+
+.my_printer .wrap .parameters p {
+  padding: 10px;
+}
+
+.my_printer .wrap img {
+  max-width: 60%;
+  height: 60vh;
+  opacity: 0.7;
+}
+/*# sourceMappingURL=style.css.map */

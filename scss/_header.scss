@@ -1,0 +1,31 @@
+header {
+  background-image: linear-gradient(340deg, #0c4eb9 10%, #09a7d3 60%);
+
+  button {
+    position: absolute;
+    top: 2%;
+    margin: 20px;
+    padding: 15px 20px;
+    border-radius: 10px;
+    font-size: 18px;
+    border: none;
+    background-color: rgba(255, 0, 0, 0.664);
+    color: white;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: rgba(185, 6, 0, 0.842);
+    color: white;
+  }
+}
+
+.btn-contact {
+  left: 70%;
+}
+
+h1,
+h2 {
+  text-align: center;
+  //   margin: 10px;
+  padding: 16px;
+}
