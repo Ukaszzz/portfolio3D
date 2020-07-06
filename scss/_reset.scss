@@ -4,6 +4,33 @@
   box-sizing: border-box;
 }
 body {
-  max-width: 1200px;
   margin: 0 auto;
+}
+
+@keyframes slide_animation {
+  0% {
+    opacity: 0.6;
+  }
+  // 20% {
+  //   opacity: 0.2;
+  // }
+
+  50% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.lol {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 80%;
+  margin: 0 auto;
+  background-color: red;
 }

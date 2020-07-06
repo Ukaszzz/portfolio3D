@@ -1,9 +1,11 @@
 header {
   background-image: linear-gradient(340deg, #0c4eb9 10%, #09a7d3 60%);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  min-height: 60vh;
 
   button {
-    position: absolute;
-    top: 2%;
     margin: 20px;
     padding: 15px 20px;
     border-radius: 10px;
@@ -19,13 +21,24 @@ header {
   }
 }
 
-.btn-contact {
-  left: 70%;
-}
-
 h1,
 h2 {
   text-align: center;
-  //   margin: 10px;
+
   padding: 16px;
+}
+
+@media (min-width: 600px) {
+  header {
+    display: block;
+    min-height: 25vh;
+    position: relative;
+    button {
+      position: absolute;
+      top: 20%;
+    }
+  }
+  .btn-contact {
+    left: 70%;
+  }
 }

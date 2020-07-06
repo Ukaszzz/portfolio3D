@@ -44,26 +44,19 @@
     i {
       font-size: 40px;
     }
-    p {
-      //   font-size: 25px;
-    }
+
     &__wrap {
       width: 60%;
     }
     &__socials {
       width: 80%;
+      margin: 0 auto;
     }
   }
 }
 
 @media (min-width: 900px) {
   .contacts {
-    h1 {
-      //   margin-top: 15px;
-
-      //   line-height: 60px;
-      //   font-size: 30px;
-    }
     &__wrap {
       width: 90%;
     }

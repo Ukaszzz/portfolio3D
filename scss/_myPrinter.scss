@@ -1,17 +1,21 @@
 .my_printer {
-  height: 90vh;
+  min-height: 90vh;
+
   background-image: url("../img/abstract-1438434_1280.png");
+  background-position: center;
+  background-size: cover;
 
   color: rgb(184, 184, 184);
   margin: 0 auto;
   .wrap {
     display: flex;
+    flex-direction: column;
     justify-content: space-evenly;
     margin: 20px;
     .parameters {
       display: flex;
       flex-direction: column;
-      margin: 20px;
+      margin: 20px auto;
 
       color: white;
 
@@ -21,8 +25,18 @@
     }
     img {
       max-width: 60%;
-      height: 60vh;
+      height: 40vh;
       opacity: 0.7;
+      margin: 0 auto;
+    }
+  }
+}
+@media (min-width: 600px) {
+  .my_printer {
+    .wrap {
+      img {
+        height: 60vh;
+      }
     }
   }
 }

@@ -6,7 +6,7 @@ const slideList = [
     <h1>autor: "pmoews"</h1>
     <h2>filament: PLA  "3d active" </h2>
     <h3>ważniejsze parametry wydruku:</h3>
-    <p>temperatura: 220:</p>
+    <p>temperatura: 220</p>
     <p>temperatura stołu: 50</p>
     <p>wysokość warstwy: 0.2</p>
     <p>skala: 50%</p>
@@ -24,7 +24,7 @@ const slideList = [
     <h1>autor: "M3DM"</h1>
     <h2>filament: PLA  "3d active" </h2>
     <h3>ważniejsze parametry wydruku:</h3>
-    <p>temperatura: 215:</p>
+    <p>temperatura: 215</p>
     <p>temperatura stołu: 50</p>
     <p>wysokość warstwy: 0.2</p>
     <p>skala: 250%</p>
@@ -41,7 +41,7 @@ const slideList = [
     <h1>autor: "M3DM"</h1>
     <h2>filament: PLA  "3d active" </h2>
     <h3>ważniejsze parametry wydruku:</h3>
-    <p>temperatura: 215:</p>
+    <p>temperatura: 215</p>
     <p>temperatura stołu: 50</p>
     <p>wysokość warstwy: 0.12</p>
     <p>skala: 110%</p>
@@ -58,7 +58,7 @@ const slideList = [
     <h1>autor: "wileur "</h1>
     <h2>filament: PLA  "Plast-Spaw" </h2>
     <h3>ważniejsze parametry wydruku:</h3>
-    <p>temperatura: 207:</p>
+    <p>temperatura: 207</p>
     <p>temperatura stołu: 50</p>
     <p>wysokość warstwy: 0.2</p>
     <p>skala: 100%</p>
@@ -75,7 +75,7 @@ const slideList = [
     <h1>autor: "catart3d "</h1>
     <h2>filament: PLA  "Plast-Spaw" </h2>
     <h3>ważniejsze parametry wydruku:</h3>
-    <p>temperatura: 207:</p>
+    <p>temperatura: 207</p>
     <p>temperatura stołu: 45</p>
     <p>wysokość warstwy: 0.2</p>
     <p>skala: 100%</p>
@@ -92,7 +92,7 @@ const slideList = [
     <h1>autor: "PatrickFanart "</h1>
     <h2>filament: PLA  "3d active" </h2>
     <h3>ważniejsze parametry wydruku:</h3>
-    <p>temperatura: 215:</p>
+    <p>temperatura: 215</p>
     <p>temperatura stołu: 50</p>
     <p>wysokość warstwy: 0.2</p>
     <p>skala: 100%</p>
@@ -109,7 +109,7 @@ const slideList = [
     <h1>autor: "jp_math "</h1>
     <h2>filament: PLA  "3d active" </h2>
     <h3>ważniejsze parametry wydruku:</h3>
-    <p>temperatura: 215:</p>
+    <p>temperatura: 215</p>
     <p>temperatura stołu: 50</p>
     <p>wysokość warstwy: 0.12</p>
     <p>skala: 25%</p>
@@ -127,7 +127,7 @@ const slideList = [
   <h1>autor: "3P3D "</h1>
   <h2>filament: PLA  "3d active" </h2>
   <h3>ważniejsze parametry wydruku:</h3>
-  <p>temperatura: 210:</p>
+  <p>temperatura: 210</p>
   <p>temperatura stołu: 50</p>
   <p>wysokość warstwy: 0.2</p>
   <p>skala: 25%</p>
@@ -144,7 +144,7 @@ const slideList = [
   <h1>autor: "Candice_Coreen "</h1>
   <h2>filament: PLA  "3d active" </h2>
   <h3>ważniejsze parametry wydruku:</h3>
-  <p>temperatura: 215:</p>
+  <p>temperatura: 215</p>
   <p>temperatura stołu: 50</p>
   <p>wysokość warstwy: 0.12</p>
   <p>skala: 60%</p>
@@ -162,7 +162,7 @@ const slideList = [
   <h1>autor: "rayperkins "</h1>
   <h2>filament: PLA  "plast-spaw" </h2>
   <h3>ważniejsze parametry wydruku:</h3>
-  <p>temperatura: 207:</p>
+  <p>temperatura: 207</p>
   <p>temperatura stołu: 45</p>
   <p>wysokość warstwy: 0.2</p>
   <p>skala: 100%</p>
@@ -179,7 +179,7 @@ const slideList = [
   <h1>autor: " iomaa"</h1>
   <h2>filament: PLA  "3d active" </h2>
   <h3>ważniejsze parametry wydruku:</h3>
-  <p>temperatura: 225:</p>
+  <p>temperatura: 225</p>
   <p>temperatura stołu: 50</p>
   <p>wysokość warstwy: 0.12</p>
   <p>skala: 100%</p>
@@ -197,7 +197,7 @@ const slideList = [
   <h1>autor: "alohapussycat "</h1>
   <h2>filament: PLA  "Plast-Spaw" </h2>
   <h3>ważniejsze parametry wydruku:</h3>
-  <p>temperatura: 207:</p>
+  <p>temperatura: 207</p>
   <p>temperatura stołu: 50</p>
   <p>wysokość warstwy: 0.2</p>
   <p>skala: 100%</p>
@@ -214,7 +214,7 @@ const slideList = [
   <h1>autor: "Nerys "</h1>
   <h2>filament: PLA  "Plast-Spaw" </h2>
   <h3>ważniejsze parametry wydruku:</h3>
-  <p>temperatura: 207:</p>
+  <p>temperatura: 207</p>
   <p>temperatura stołu: 50</p>
   <p>wysokość warstwy: 0.2</p>
   <p>skala: 100%</p>
@@ -231,7 +231,7 @@ const slideList = [
   <h1>autor: "Tomaskom_cz "</h1>
   <h2>filament: PLA  "Plast-Spaw" </h2>
   <h3>ważniejsze parametry wydruku:</h3>
-  <p>temperatura: 207:</p>
+  <p>temperatura: 207</p>
   <p>temperatura stołu: 50</p>
   <p>wysokość warstwy: 0.2</p>
   <p>skala: 100%</p>
@@ -248,7 +248,7 @@ const slideList = [
   <h1>autor: " Bouillon_CR "</h1>
   <h2>filament: PLA  "3d active" </h2>
   <h3>ważniejsze parametry wydruku:</h3>
-  <p>temperatura: 207:</p>
+  <p>temperatura: 207</p>
   <p>temperatura stołu: 50</p>
   <p>wysokość warstwy: 0.2</p>
   <p>skala: 100%</p>
@@ -265,7 +265,7 @@ const slideList = [
   <h1>autor: "Łukasz Zoła "</h1>
   <h2>filament: PLA  "3d active" </h2>
   <h3>ważniejsze parametry wydruku:</h3>
-  <p>temperatura: 220:</p>
+  <p>temperatura: 220</p>
   <p>temperatura stołu: 50</p>
   <p>wysokość warstwy: 0.12</p>
   <p>skala: 100%</p>
@@ -282,7 +282,7 @@ const slideList = [
   <h1>autor: "VidovicArts  "</h1>
   <h2>filament: PLA  "3d active" </h2>
   <h3>ważniejsze parametry wydruku:</h3>
-  <p>temperatura: 215:</p>
+  <p>temperatura: 215</p>
   <p>temperatura stołu: 50</p>
   <p>wysokość warstwy: 0.12</p>
   <p>skala: 100%</p>
@@ -299,7 +299,7 @@ const slideList = [
   <h1>autor: "Łukasz Zoła "</h1>
   <h2>filament: PLA  "3d active" </h2>
   <h3>ważniejsze parametry wydruku:</h3>
-  <p>temperatura: 220:</p>
+  <p>temperatura: 220</p>
   <p>temperatura stołu: 50</p>
   <p>wysokość warstwy: 0.2</p>
   <p>skala: 100%</p>
@@ -316,7 +316,7 @@ const slideList = [
   <h1>autor: "Łukasz Zoła "</h1>
   <h2>filament: PLA  "plast-Spaw" </h2>
   <h3>ważniejsze parametry wydruku:</h3>
-  <p>temperatura: 207:</p>
+  <p>temperatura: 207</p>
   <p>temperatura stołu: 25</p>
   <p>wysokość warstwy: 0.2</p>
   <p>skala: 100%</p>
@@ -333,7 +333,7 @@ const slideList = [
   <h1>autor: "Octomo "</h1>
   <h2>filament: PLA  "plast-Spaw" </h2>
   <h3>ważniejsze parametry wydruku:</h3>
-  <p>temperatura: 207:</p>
+  <p>temperatura: 207</p>
   <p>temperatura stołu: 25</p>
   <p>wysokość warstwy: 0.2</p>
   <p>skala: 50%</p>
@@ -350,7 +350,7 @@ const slideList = [
   <h1>autor: "Bouillon322 "</h1>
   <h2>filament: PLA  "3d active" </h2>
   <h3>ważniejsze parametry wydruku:</h3>
-  <p>temperatura: 220:</p>
+  <p>temperatura: 220</p>
   <p>temperatura stołu: 50</p>
   <p>wysokość warstwy: 0.12</p>
   <p>skala: 100%</p>
@@ -367,7 +367,7 @@ const slideList = [
   <h1>autor: "chuckamcknight "</h1>
   <h2>filament: PLA  "3d active" </h2>
   <h3>ważniejsze parametry wydruku:</h3>
-  <p>temperatura: 220:</p>
+  <p>temperatura: 220</p>
   <p>temperatura stołu: 50</p>
   <p>wysokość warstwy: 0.12</p>
   <p>skala: 100%</p>
@@ -381,10 +381,10 @@ const slideList = [
     img: "img/zakładka-serce.JPG",
     text: "Heart Bookmark ",
     popup: `
-  <h1>autor: "chuckamcknight "</h1>
+  <h1>autor: "ohad135  "</h1>
   <h2>filament: PLA  "3d active" </h2>
   <h3>ważniejsze parametry wydruku:</h3>
-  <p>temperatura: 220:</p>
+  <p>temperatura: 220</p>
   <p>temperatura stołu: 50</p>
   <p>wysokość warstwy: 0.12</p>
   <p>skala: 100%</p>
@@ -401,7 +401,7 @@ const slideList = [
   <h1>autor: "jaaanik "</h1>
   <h2>filament: PLA  "3d active" </h2>
   <h3>ważniejsze parametry wydruku:</h3>
-  <p>temperatura: 225:</p>
+  <p>temperatura: 225</p>
   <p>temperatura stołu: 50</p>
   <p>wysokość warstwy: 0.2</p>
   <p>skala: 100%</p>
@@ -418,7 +418,7 @@ const slideList = [
   <h1>autor: " jaaanik"</h1>
   <h2>filament: PLA  "3d active" </h2>
   <h3>ważniejsze parametry wydruku:</h3>
-  <p>temperatura: 225:</p>
+  <p>temperatura: 225</p>
   <p>temperatura stołu: 50</p>
   <p>wysokość warstwy: 0.2</p>
   <p>skala: 100%</p>
@@ -435,7 +435,7 @@ const slideList = [
   <h1>autor: "jaaanik "</h1>
   <h2>filament: PLA  "3d active" </h2>
   <h3>ważniejsze parametry wydruku:</h3>
-  <p>temperatura: 220:</p>
+  <p>temperatura: 220</p>
   <p>temperatura stołu: 50</p>
   <p>wysokość warstwy: 0.2</p>
   <p>skala: 100%</p>
@@ -453,7 +453,7 @@ const slideList = [
     <h1>autor: "Sebastian_v650"</h1>
     <h2>filament: PLA  "Plast-Spaw" </h2>
     <h3>ważniejsze parametry wydruku:</h3>
-    <p>temperatura: 210:</p>
+    <p>temperatura: 210</p>
     <p>temperatura stołu: 50</p>
     <p>wysokość warstwy: 0.2/0.12</p>
     <p>skala: 120/100%</p>
@@ -473,6 +473,7 @@ const btnLeft = document.querySelector(".btn-left");
 const btnRight = document.querySelector(".btn-right");
 const btnProject = document.querySelector(".btn-project");
 const btnContact = document.querySelector(".btn-contact");
+const singlePrint = document.querySelector(".single-print");
 
 const time = 10000;
 let active = 0;
@@ -486,28 +487,21 @@ const changeSlide = () => {
   h1.textContent = slideList[active].text;
   popup = slideList[active].popup;
   active++;
+
   console.log(popup);
 };
-// let indexInterval = setInterval(changeSlide, time);
 
 const keyChangeSlide = (e) => {
   if (e.keyCode === 37 || e.keyCode === 39) {
-    // clearInterval(indexInterval);
-
-    e.keyCode == 37 ? active-- : active++;
-
-    if (active == slideList.length) {
-    } else if (active < 0) {
+    if (active == 0) {
       active = slideList.length - 1;
+    } else if (active === slideList.length) {
+      active = 0;
     }
+    e.keyCode == 37 ? active-- : active++;
     image.src = slideList[active].img;
     h1.textContent = slideList[active].text;
     popup.innerHTML = slideList[active].popup;
-
-    console.log(slideList[active]);
-    console.log(popup);
-
-    // indexInterval = setInterval(changeSlide, time);
   }
 };
 
@@ -519,8 +513,6 @@ const buttonLeft = () => {
   image.src = slideList[active].img;
   h1.textContent = slideList[active].text;
   popup.innerHTML = slideList[active].popup;
-
-  console.log(active);
 };
 
 const buttonRight = () => {
@@ -532,8 +524,19 @@ const buttonRight = () => {
   image.src = slideList[active].img;
   h1.textContent = slideList[active].text;
   popup.innerHTML = slideList[active].popup;
-  console.log(active);
 };
+
+// const animate = () => {
+//   // singlePrint.style.animation = "slide_animation 0.5s linear";
+//   const cos = document.createElement("div");
+//   cos.classList.add("lol");
+//   console.log(cos);
+//   singlePrint.appendChild(cos);
+
+//   // setTimeout(() => {
+//   //   singlePrint.style.animation = "none";
+//   // }, 500);
+// };
 
 window.addEventListener("keydown", keyChangeSlide);
 btnRight.addEventListener("click", buttonRight);
